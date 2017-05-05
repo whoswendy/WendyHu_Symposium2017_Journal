@@ -13,9 +13,7 @@ Goal for today:
     
     Obstacles faced: One of the main attractions of the game Plague is that it is a very strategy based game, the spreading of the virus 
     can be impacted by a lot of things: climate, region, transmission....So, it will be difficult for us to replicate everything in the 
-    game, will need to decide what we can do and what we cannot. Also, the story line of Plague is infecting the entire world, however the 
-    entire world may be too large of a scale for us, so right now might begin with just the United States or the continent of North 
-    America.
+    game, will need to decide what we can do and what we cannot. Also, the story line of Plague is infecting the entire world, however       the entire world may be too large of a scale for us, so right now might begin with just the United States or the continent of North      America.
 
   Will Need For Tomorrow:
     Create game repository! 
@@ -24,3 +22,18 @@ Goal for today:
  Goals for today:
   Setup repository
   Planout layout and features of game
+
+  Progress:
+    Created repository but need the GUI and etc. 
+    Planned out initial layout of game: 
+      Will be based on the United States
+      Each state will be an instance of a class
+        Will have vars: name, climate, population
+      Display of the map will change with the change in population infected: 
+        The more the population is infected the more red the map becomes
+        When everyone in state dead map becomes black
+      Will have a stats bar on the bottom of screen:
+        OnHover of a state show: state name, population infected, population dead
+      Will have a Disease menu and a cure menu
+        In Disease menu: more on transmission, bacteria evolution, bacteria abilities
+        In Cure menu: more on status of cure and stats....
