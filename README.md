@@ -45,3 +45,14 @@ Goal for today:
         In Disease menu: more on transmission, bacteria evolution, bacteria abilities
         
         In Cure menu: more on status of cure and stats....
+     
+     New members to our group
+     Started coding some classes
+     
+   Need to Do:
+     Plan out all the classes that are needed
+     Plan out display of map (not sure how we will display the map as pieces of states put together or just use rectangles...)
+     Distribution of work
+     
+     
+     
