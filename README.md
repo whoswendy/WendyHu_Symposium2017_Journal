@@ -19,3 +19,8 @@ Goal for today:
 
   Will Need For Tomorrow:
     Create game repository! 
+    
+ 5/05/17
+ Goals for today:
+  Setup repository
+  Planout layout and features of game
