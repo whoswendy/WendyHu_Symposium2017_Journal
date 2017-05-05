@@ -28,14 +28,20 @@ Goal for today:
   Progress:
     Created repository but need the GUI and etc. 
     Planned out initial layout of game: 
+    
       Will be based on the United States
+      
       Each state will be an instance of a class
         Will have vars: name, climate, population
+        
       Display of the map will change with the change in population infected: 
         The more the population is infected the more red the map becomes
         When everyone in state dead map becomes black
+        
       Will have a stats bar on the bottom of screen:
         OnHover of a state show: state name, population infected, population dead
+        
       Will have a Disease menu and a cure menu
         In Disease menu: more on transmission, bacteria evolution, bacteria abilities
+        
         In Cure menu: more on status of cure and stats....
