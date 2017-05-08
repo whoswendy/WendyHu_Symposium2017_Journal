@@ -20,8 +20,8 @@ Goal for today:
   Will Need For Tomorrow:
     Create game repository! 
     
- 5/05/17
- Goals for today:
+5/05/17
+Goals for today:
   Setup repository
   Planout layout and features of game
 
@@ -50,9 +50,18 @@ Goal for today:
      Started coding some classes
      
    Need to Do:
+   
      Plan out all the classes that are needed
+     
      Plan out display of map (not sure how we will display the map as pieces of states put together or just use rectangles...)
      Distribution of work
+     
+5/08/17
+Goals for today:
+  Get addition members onto git repository
+  Plan out roles of each member
+  How are we going to draw out the map of the US??
+  
      
      
      
