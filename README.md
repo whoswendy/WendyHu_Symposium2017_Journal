@@ -20,6 +20,7 @@ Goal for today:
   Will Need For Tomorrow:
     Create game repository! 
     
+---------------------------------------------------------------------------------------------------------------------------------------  
 5/05/17
 Goals for today:
   Setup repository
@@ -56,6 +57,8 @@ Goals for today:
      Plan out display of map (not sure how we will display the map as pieces of states put together or just use rectangles...)
      Distribution of work
      
+--------------------------------------------------------------------------------------------------------------------------------------- 
+     
 5/08/17
 Goals for today:
  Get addition members onto git repository
@@ -63,6 +66,7 @@ Goals for today:
  How are we going to draw out the map of the US??
   
   Progress:
+  
    Stats bar will be a component and will show up on the left side of the screen when a state is clicked
    Each state will be a clickableImage?
    Tracy and Jimmy will come up with how the images of states and display of map will work...?
