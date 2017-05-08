@@ -62,6 +62,12 @@ Goals for today:
   Plan out roles of each member
   How are we going to draw out the map of the US??
   
+  Progress:
+  Stats bar will be a component and will show up on the left side of the screen when a state is clicked
+  Each state will be a clickableImage?
+  Tracy and Jimmy will come up with how the images of states and display of map will work...?
+  
+  
      
      
      
