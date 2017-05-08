@@ -67,13 +67,13 @@ Goals for today:
   
   Progress:
   
-   Stats bar will be a component and will show up on the left side of the screen when a state is clicked
+    Stats bar will be a component and will show up on the left side of the screen when a state is clicked
    
-   Each state will be a clickableImage?When infected pop increases the color of pic will change use (setRGB()?)
+    Each state will be a clickableImage?When infected pop increases the color of pic will change use (setRGB()?)
   
-   Tracy and Jimmy will come up with how the images of states and display of map will work...?
+    Tracy and Jimmy will come up with how the images of states and display of map will work...?
    
-   There will also be a component to display DNApoints
+    There will also be a component to display DNApoints
    
   Need To Do:
     NEED TO IMPORT GUI AND COMPONENTS
