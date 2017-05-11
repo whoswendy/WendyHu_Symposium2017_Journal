@@ -79,6 +79,12 @@ Goals for today:
     NEED TO IMPORT GUI AND COMPONENTS
   
   NOTE:WILL NOT BE HERE IN CLASS 5/09 and 5/10 DUE TO AP TESTING
-     
-     
+    
+--------------------------------------------------------------------------------------------------------------------------------------- 
+
+5/11/17
+Goals for today:
+  Import jars
+  Create a presentation for the game like how we did for the arcade project
+  
      
