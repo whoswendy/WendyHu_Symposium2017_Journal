@@ -88,4 +88,19 @@ Goals for today:
   Start working on stats component
   Create a presentation for the game like how we did for the arcade project?
   
+    Progress:
+    
+    Copy and pasted gui and components from my own instead of jars
+    
+    Made a MainScreen Class will have the stats bar and buttons and map there
+    
+    Was going to create a Stats component with all the other textlabels inside it but don't know why it did not work (ref. DragonLand.shopScreen and shopLabel)
+    
+    Tracy and Jimmy will work on map 
+    
+  Need to Do:
+    Create the introScreen that will be intro to the game
+    Learn how to have player type input for game ex Player's name
+    
+  
      
