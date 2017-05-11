@@ -85,6 +85,7 @@ Goals for today:
 5/11/17
 Goals for today:
   Import jars
-  Create a presentation for the game like how we did for the arcade project
+  Start working on stats component
+  Create a presentation for the game like how we did for the arcade project?
   
      
