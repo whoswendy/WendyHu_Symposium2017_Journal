@@ -110,5 +110,12 @@ Goals for today:
   -will need to learn how to use scanners to have user input
   http://stackoverflow.com/questions/11871520/how-can-i-read-input-from-the-console-using-the-scanner-class-in-java
   
+  Progress:
+  
+  Instead of using scanner for user input have change GUI to Mr.Nockles' GUI so that I can use the textfield component for user input
+  
+  Need to Do:
+    Finish intro screen
+  
   
      
