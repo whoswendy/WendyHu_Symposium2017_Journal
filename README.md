@@ -102,5 +102,13 @@ Goals for today:
     Create the introScreen that will be intro to the game
     Learn how to have player type input for game ex Player's name
     
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5/12/17
+Goals for today:
+  Create an intro screen
+  -will need to learn how to use scanners to have user input
+  http://stackoverflow.com/questions/11871520/how-can-i-read-input-from-the-console-using-the-scanner-class-in-java
+  
   
      
