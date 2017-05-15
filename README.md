@@ -117,5 +117,12 @@ Goals for today:
   Need to Do:
     Finish intro screen
   
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5/15/17
+Goals for today:
+  Finish intro screen
+  Edit stats component
+  
   
      
