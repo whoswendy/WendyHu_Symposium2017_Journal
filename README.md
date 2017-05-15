@@ -124,5 +124,15 @@ Goals for today:
   Finish intro screen
   Edit stats component
   
+  Progress:
+  
+  Instead of working on intro screen had been working with tracy on mainscreen and map
+  Problem: how do i call the button within the button's action
+  
+  
+  Need to Do:
+    Finish intro screen
+    Remember how to call button itself inside the action fo that button
+  
   
      
