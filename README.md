@@ -134,5 +134,12 @@ Goals for today:
     Finish intro screen
     Remember how to call button itself inside the action fo that button
   
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 5/16/17
+ Goals for today:
+  Finish Intro screen
+  If have enough time get back to button problem............
   
+  Clarifying my role right now: responsible for front end all the display
      
