@@ -141,5 +141,11 @@ Goals for today:
   Finish Intro screen
   If have enough time get back to button problem............
   
-  Clarifying my role right now: responsible for front end all the display
+  Clarifying my role for now: responsible for front end all the display
+  
+  Progress:
+    Working on intro screen tried to make title and input
+    
+  Need to do:
+    Finish intro screen and work on mainscreen buttons
      
