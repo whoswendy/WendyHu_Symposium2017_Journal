@@ -156,3 +156,12 @@ Goals for today:
     Finish Intro screen
     -add background
     Work on mainscreen buttons
+
+  Progress:
+    Made intro screen and mainscreen
+    Will need a background
+    will need to start chain of events:when click a state  start infection
+    
+  Need to do:
+    Work more on Mainscreen
+    When the sleeper is done add it to mainscreen
