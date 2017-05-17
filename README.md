@@ -148,4 +148,11 @@ Goals for today:
     
   Need to do:
     Finish intro screen and work on mainscreen buttons
+    
+ ---------------------------------------------------------------------------------------------------------------------------------------
      
+  5/17/17
+  Goals for today:
+    Finish Intro screen
+    -add background
+    Work on mainscreen buttons
