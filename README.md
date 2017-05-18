@@ -165,3 +165,12 @@ Goals for today:
   Need to do:
     Work more on Mainscreen
     When the sleeper is done add it to mainscreen
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5/18/17
+Goals for today:
+  add DNApoints
+  start the infection chain
+  
+  
