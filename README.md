@@ -173,4 +173,9 @@ Goals for today:
   add DNApoints
   start the infection chain
   
+Progress:
+  Mr.Nockles helped me fix the welcome on mainscreen
+  created infection thread that will start running when first state is clicked
+  created adStates method that will be used to find the adstates 
+  -will need to test out to see if the method works
   
