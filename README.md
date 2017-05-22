@@ -186,4 +186,13 @@ Goals for today:
   add DNApoints
   work on adStates method
   
+Progress:
+  Working on adStates method had previously messed up distance formula calculation now woks with states above,below,left,right but unable to find diagonal states....
+  Didnt have time to work on dna points
+  
+  Need to do:
+    fix adStates to include diagonal or maybe not
+    work on dnapoints
+    work on changing numbers of infected
+  
   
