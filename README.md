@@ -179,3 +179,11 @@ Progress:
   created adStates method that will be used to find the adstates 
   -will need to test out to see if the method works
   
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5/22/17
+Goals for today:
+  add DNApoints
+  work on adStates method
+  
+  
