@@ -194,5 +194,18 @@ Progress:
     fix adStates to include diagonal or maybe not
     work on dnapoints
     work on changing numbers of infected
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 5/23/17
+ Goals for today:
+  add DNApoints start thread for points
+  adStates method will not work with diagonals
   
+  Progress:
+    Created multiple threads new bubble pops up at the first infected state however unable to click it....?
+    Need to work on spreading the infection and infected pop. nums
+    
+  Need to do:
+    Try to fix bubbles
+    spread infection!
   
