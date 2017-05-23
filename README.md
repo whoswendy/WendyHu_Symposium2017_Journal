@@ -194,6 +194,7 @@ Progress:
     fix adStates to include diagonal or maybe not
     work on dnapoints
     work on changing numbers of infected
+    
  ---------------------------------------------------------------------------------------------------------------------------------------
  
  5/23/17
