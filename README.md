@@ -212,7 +212,15 @@ Progress:
   Goals for today:
     try to finish the adding dnapoints threading problem: unable to click the bubble...?
     spreading the infection to adjacent states
+    
+  Progress:
+    Tried to work on bubble but do not know what the problem is :(
+    started infection change the rate of infection = 1+ (0.01 * resistance)
+      resistance = 2; will increase with time for now at a rate of resistance = resistance ^ 1.5  later will change to match with upgrade of bacteria
+      currently rate is too much need to find the best mathematical equation !
+      
   Need to do:
     Try to fix bubbles
     spread infection!
+    
   
