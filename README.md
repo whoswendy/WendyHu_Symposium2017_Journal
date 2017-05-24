@@ -206,6 +206,12 @@ Progress:
     Created multiple threads new bubble pops up at the first infected state however unable to click it....?
     Need to work on spreading the infection and infected pop. nums
     
+ ---------------------------------------------------------------------------------------------------------------------------------------
+  
+  5/24/17
+  Goals for today:
+    try to finish the adding dnapoints threading problem: unable to click the bubble...?
+    spreading the infection to adjacent states
   Need to do:
     Try to fix bubbles
     spread infection!
