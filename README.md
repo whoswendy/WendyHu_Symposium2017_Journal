@@ -231,3 +231,15 @@ Goals for today:
   -make it so that it starts to spread to other states
   work on bubbles "pop"
   
+  Progress:
+    Played around with mathematical equations 
+      infection spreading too fast
+      people dying too slow....
+      states will need to differ in speed of spread ahhhh
+    Cannot make bubble work help :(
+    
+  Need to do:
+    TRY TO FIX  THOSE BUBBLES
+    work on rates communicate with tracey to see how upgrading bacteria will change my rates
+    changing color of states based on infection spread (will need to first fix how fast rate spread)
+  
