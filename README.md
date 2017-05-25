@@ -223,4 +223,11 @@ Progress:
     Try to fix bubbles
     spread infection!
     
+ ---------------------------------------------------------------------------------------------------------------------------------------
+
+5/25/17 
+Goals for today:
+  work on threading infection and math formula
+  -make it so that it starts to spread to other states
+  work on bubbles "pop"
   
