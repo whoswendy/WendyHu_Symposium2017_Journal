@@ -243,3 +243,17 @@ Goals for today:
     work on rates communicate with tracey to see how upgrading bacteria will change my rates
     changing color of states based on infection spread (will need to first fix how fast rate spread)
   
+ ---------------------------------------------------------------------------------------------------------------------------------------
+
+5/26/17
+
+Absent Had a doctor's appointment. Came back on 5/30/17 with note....
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+5/30/17
+
+Goals for today:
+  work on changing color of the states based on infected spread
+  would need to change rates b bb bu buu but need help determining rate changes and communicate with tracy on how she wants the rates to be changing ..... but but but shes not here...
+  try to fix bubbles
