@@ -257,3 +257,11 @@ Goals for today:
   work on changing color of the states based on infected spread
   would need to change rates b bb bu buu but need help determining rate changes and communicate with tracy on how she wants the rates to be changing ..... but but but shes not here...
   try to fix bubbles
+  
+  Progress:
+    Mr.Nockles have helped me with bubble pop...:)
+    had spent much time looking for image and trying to crop image....Need to figure out how to make image transparent...
+    
+Need to do:
+  FIX RATES AND TALK WITH TRACY 
+  changing color of states 
