@@ -274,3 +274,14 @@ Goals for today:
   check to see if dna bubbles work properly(show up when other stats are infected)
   see if sleeper can be displayed if yes add to screen
   
+  Progress:
+  Tracy will on rates....
+  the colors of the state will change now based on % of infected pop (want to learn how to make it so that it will change as infected change using HSL)
+  
+  Problems:
+  Eclipse and my program will crash after the threading running a lot.....
+  problem with my stats on infectedPop and DeadPop....
+  
+ Need to do:
+  Figure out my problems..................
+  
