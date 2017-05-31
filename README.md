@@ -252,7 +252,6 @@ Absent Had a doctor's appointment. Came back on 5/30/17 with note....
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 5/30/17
-
 Goals for today:
   work on changing color of the states based on infected spread
   would need to change rates b bb bu buu but need help determining rate changes and communicate with tracy on how she wants the rates to be changing ..... but but but shes not here...
@@ -265,3 +264,13 @@ Goals for today:
 Need to do:
   FIX RATES AND TALK WITH TRACY 
   changing color of states 
+  
+ ---------------------------------------------------------------------------------------------------------------------------------------
+
+5/31/17
+Goals for today:
+  changing color of states
+  play around with the rates and talk to tracy about how her upgrades will affect the rates
+  check to see if dna bubbles work properly(show up when other stats are infected)
+  see if sleeper can be displayed if yes add to screen
+  
