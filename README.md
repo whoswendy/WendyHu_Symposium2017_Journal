@@ -292,3 +292,10 @@ Goals for today:
   Try to fix my color changing problems
   Figure out my crashing program...
   If have time work on bubbles 
+  
+  Progress:
+    tried working on colors need to test if working properly
+    Mr.nockles helped me with displaying population counts :)
+    
+  Need to do:
+    Computer crashing.....
