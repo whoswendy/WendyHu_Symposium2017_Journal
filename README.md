@@ -285,3 +285,10 @@ Goals for today:
  Need to do:
   Figure out my problems..................
   
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 6/01/17
+ Goals for today:
+  Try to fix my color changing problems
+  Figure out my crashing program...
+  If have time work on bubbles 
