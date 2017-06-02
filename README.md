@@ -299,3 +299,11 @@ Goals for today:
     
   Need to do:
     Computer crashing.....
+    
+---------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 6/02/17
+ Goals for today:
+  Test out colors if work see if could make colors change while infection change
+  work on dna points bubbles popping up more than once...
+  computer crashing
