@@ -307,3 +307,13 @@ Goals for today:
   Test out colors if work see if could make colors change while infection change
   work on dna points bubbles popping up more than once...
   computer crashing
+  
+  Progress:
+    Colors working more efficiently :0
+    sleeper works properly and is now on MainScreen 
+    rates working kinda efficiently a bit problem with infected pop
+    
+  Need to do:
+    work on ending game
+    work on dna bubbles
+    test if computer crashed......lol
