@@ -317,3 +317,12 @@ Goals for today:
     work on ending game
     work on dna bubbles
     test if computer crashed......lol
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+6/05/17
+Goals for today:
+  work on ending game
+  work on dna bubbles....
+  test if computer crashed....
+  Tracy's not here :(
