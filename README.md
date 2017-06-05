@@ -326,3 +326,12 @@ Goals for today:
   work on dna bubbles....
   test if computer crashed....
   Tracy's not here :(
+
+Progress:
+  tried to make game end will need to test out if it works
+  game slightly crashed when nearing end when all states near destruction
+  worked with cure to see how cure is being created and how it is working.....
+  
+Need to do:
+  Need to add tracy's bacteria screen
+  need to add the cure screen sigh... :(
