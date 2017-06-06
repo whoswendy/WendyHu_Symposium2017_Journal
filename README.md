@@ -335,3 +335,11 @@ Progress:
 Need to do:
   Need to add tracy's bacteria screen
   need to add the cure screen sigh... :(
+  
+---------------------------------------------------------------------------------------------------------------------------------------
+
+6/06/17
+Goals for today:
+  see if game ends... :(
+  need help for dna bubbles: problem only show up once 
+  see if cure works and if not make it work
