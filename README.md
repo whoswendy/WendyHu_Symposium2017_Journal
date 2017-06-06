@@ -342,4 +342,9 @@ Need to do:
 Goals for today:
   see if game ends... :(
   need help for dna bubbles: problem only show up once 
+  
+Progress:
+  game does not end problems with the numbers do not know what to do .... :(
+  butttt fixed the bubbles so happy :)
+  game crashed a bit when all states infected and running but the wyoming (1st state clicked) does not have people dying.....
   see if cure works and if not make it work
