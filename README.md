@@ -355,3 +355,7 @@ Progress:
   Goals for today:
     fix problems with some of the states: for some reason the first state that is clicked has problems with people dying
     work with curescreen to see what they need
+    
+    Progress:
+     worked on changing rates and colors and investigated why some states numebers not accurate
+     program crashes on desktop but not on my laptop....
