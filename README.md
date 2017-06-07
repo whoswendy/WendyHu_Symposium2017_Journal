@@ -336,7 +336,7 @@ Need to do:
   Need to add tracy's bacteria screen
   need to add the cure screen sigh... :(
   
----------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 6/06/17
 Goals for today:
@@ -348,3 +348,10 @@ Progress:
   butttt fixed the bubbles so happy :)
   game crashed a bit when all states infected and running but the wyoming (1st state clicked) does not have people dying.....
   see if cure works and if not make it work
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+6/07/17
+  Goals for today:
+    fix problems with some of the states: for some reason the first state that is clicked has problems with people dying
+    work with curescreen to see what they need
