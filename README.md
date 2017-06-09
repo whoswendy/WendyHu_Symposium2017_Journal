@@ -359,3 +359,12 @@ Progress:
     Progress:
      worked on changing rates and colors and investigated why some states numebers not accurate
      program crashes on desktop but not on my laptop....
+     
+------------------------------------------------------------------------------------------------------------------------------------
+
+6/09/17
+Goals for today:
+  work on ending the game ending kinda works buggy
+  talk to cures about how cures working cuz its not working........
+  game bit bggy for some reason the first state that i click do not work properly.....
+     
